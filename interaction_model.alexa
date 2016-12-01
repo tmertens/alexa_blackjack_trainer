@@ -1,0 +1,15 @@
+{
+  "intents": [
+    { "intent": "LaunchRequest" },
+    { "intent": "Deal" },
+    { "intent": "Hit" },
+    { "intent": "Stand" },
+    { "intent": "Split" },
+    { "intent": "Double" },
+    { "intent": "Advice" },
+    { "intent": "WhatAreMyOptions" },
+    { "intent": "HowAmIDoing" },
+    { "intent": "WinMoney" },
+    { "intent": "Stop" }
+    ]
+}
